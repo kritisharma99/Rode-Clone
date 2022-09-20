@@ -1,0 +1,19 @@
+@media screen and (min-width:1000px) {
+    *{
+        padding:0px;
+        margin:0px;
+    }
+    .hero{
+        background-image: url('images/rode2.jpeg');
+        height: 100vh;
+        margin-top: 90px;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero1{
+        background-image: url('assets/rode3.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+}
